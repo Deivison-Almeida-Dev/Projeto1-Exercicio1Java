@@ -29,6 +29,6 @@ public class Exercicio1 {
         Scanner sc5 = new Scanner(System.in);
         salario = sc5.nextFloat();
 
-        System.out.println("O trabalhador " + nome + "\ndo sexo " + sexo + "\nde idade " + idade + " anos\nde estado civil " + estadoCivil + "\ne salario R$" + salario + "\nencontra-se empregado neste estabelecimento.");
+        System.out.println("O colaborador " + nome + "\ndo sexo " + sexo + "\nde idade " + idade + " anos\nde estado civil " + estadoCivil + "\ne salario R$" + salario + "\nencontra-se empregado neste estabelecimento.");
     }
 }
